@@ -1,0 +1,89 @@
+,,,
+Semester,Kode Baru,Matakuliah Baru,SKS Baru
+1,UNO107,Pendidikan Kewarganegaraan,2
+1,IF21101,Pengantar Teknologi Informasi,2
+1,IF21102,Matematika Dasar,3
+1,IF21103,Algoritma dan Pemrograman,3
+1,IF21104,Praktikum Algoritma dan Pemrograman,1
+1,IF21105,Logika Informatika,3
+1,IF21106,Basis Data I,2
+1,IF21107,Praktikum Basis Data,1
+1,IF21108,Organisasi dan Arsitektur Komputer,3
+1,IF21109,Sistem Informasi,3
+2,UNO101,Pancasila,2
+2,UNO114,Jati Diri Unsoed,2
+2,IF21201,Probabilitas dan Statistika,2
+2,IF21202,Basis Data II,2
+2,IF21203,Struktur Data,3
+2,IF21204,Praktikum Struktur Data,1
+2,IF21205,Matematika Diskrit,3
+2,IF21206,Sistem Operasi,3
+2,IF21207,Praktikum Sistem Operasi,1
+2,IF21208,Web Design,2
+2,IF21209,E-Commerce,2
+3,IF21301,Pemrograman Berorientasi Objek,3
+3,IF21302,Praktikum Pemrograman Berorientasi Objek,1
+3,IF21303,Aljabar Linier dan Matriks,3
+3,IF21304,Jaringan Komputer,2
+3,IF21305,Pemrograman Web I,2
+3,IF21306,Praktikum Pemrograman Web I,1
+3,IF21307,Analisis dan Desain Sistem,3
+3,IF21308,Kecerdasan Buatan,3
+4,IF21401,Interaksi Manusia Komputer,2
+4,IF21402,Praktikum Jaringan Komputer,1
+4,IF21403,Pemrograman Web II,2
+4,IF21404,Rekayasa Perangkat Lunak,3
+4,IF21405,Praktikum Kecerdasan Buatan,1
+4,IF21406,Sistem Pendukung Keputusan,3
+4,IF21407,Logika Fuzzy,3
+4,IF21408,Data Mining,3
+5,IF21501,Bahasa Inggris,2
+5,IF21502,Olah Raga,1
+5,IF21503,Keamanan Informasi,3
+5,IF21504,Audit Sistem Informasi,3
+5,IF21505,Manajemen Proyek Informatika,3
+5,IF21505,Manajemen Proyek Informatika,3
+5,IF21506,Uji Kualitas Perangkat Lunak,3
+5,IF21507,Pemrograman Mobile,2
+5,IF21508,Praktikum Pemrograman Mobile,1
+5,IF21509,Kewirausahaaan,2
+6,UNO102,Agama Islam,2
+6,UNO103,Agama Katholik,2
+6,UNO104,Agama Kristen,2
+6,UNO108,Bahasa Indonesia,2
+6,IF21601,Hukum dan Etika,2
+6,IF21602,Metode Penelitian Informatika,2
+6,IF21603,Teknologi Multimedia,2
+6,IF21604,Infrastruktur Teknologi Informasi,3
+6,IF21605,Pemrograman Sistem Tertanam,2
+6,IF21606,Praktikum Pemrograman Sistem Tertanam,1
+7,UNO413,Kuliah Kerja Nyata,3
+7,IF21701,Kerja Praktek,3
+8,IF21801,Pendadaran,2
+8,IF21802,Tugas Akhir,4
+Pilihan,IF21A01,Analisis Algoritma,3
+Pilihan,IF21A02,Informatika Medik,3
+Pilihan,IF21A03,Pengolahan Citra Digital,3
+Pilihan,IF21A04,Pengenalan Pola,3
+Pilihan,IF21A05,Kriptografi,3
+Pilihan,IF21A06,Sistem Informasi Geografis,3
+Pilihan,IF21A07,Data Warehouse,3
+Pilihan,IF21A08,Jaringan Syaraf Tiruan,3
+Pilihan,IF21A09,Pengantar Akutansi,2
+Pilihan,IF21A10,Pemrograman Game,2
+Pilihan,IF21A11,Text Mining,3
+Pilihan,IF21A12,ERP,3
+Pilihan,IF21B01,Teori Bahasa dan Otomata,3
+Pilihan,IF21B02,Komputer dan Masyarakat,2
+Pilihan,IF21B03,Kapita Selekta Informatika,3
+Pilihan,IF21B03,Kapita Selekta Informatika,3
+Pilihan,IF21B03,Kapita Selekta Informatika,3
+Pilihan,IF21B04,Komputer Forensik,2
+Pilihan,IF21B05,Analisa Kinerja Sistem,3
+Pilihan,IF21B06,Pemrograman Waktu Nyata,3
+Pilihan,IF21B07,Sistem Tersebar,3
+Pilihan,IF21B08,Sistem Pakar,3
+Pilihan,IF21B09,Neuro Fuzzy,3
+Pilihan,IF21B10,Algoritma Genetika,3
+Pilihan,IF21B11,Machine Learning,3
+Pilihan,IF21B12,CRM,3
